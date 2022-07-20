@@ -11,7 +11,7 @@ In this assignemnt, we will focus on modeling sentences using an example of an R
 
 Figure 1: 
 
-<img width="856" alt="RNN" src="https://user-images.githubusercontent.com/77938288/149813795-760f679d-8240-44b2-ab08-c785c2068134.png">
+![RNN diagram](img/img_1.png)
 
 # 1: Text Generation
 
